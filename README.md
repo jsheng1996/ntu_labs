@@ -3,3 +3,6 @@ A consolidated repository of all lab work done at NTU as part of CS undergrad cu
 
 ## Year 2 mods
 CZ 2003 Computer Graphics and Visualization
+
+## Year 3 mods
+CZ 3005 Artificial Intelligence
